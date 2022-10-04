@@ -11,6 +11,7 @@
 No additional installations beyond the Anaconda distribution of Python and Jupyter notebooks.
 
 ## Project Motivation
+
 For this project I was interested in predicting customer churn for a fictional music streaming company: Sparkify. 
 
 The project involved:
@@ -20,6 +21,7 @@ The project involved:
  - Modelling using machine learning algorithms such as Logistic Regression, Random Forest, Gradient Boosted Trees, Linear SVM, Naive Bayes 
 
 ## File Descriptions
+
 There is one exploratory notebook and html file of the notebook available here to showcase my work in predicting churn. 
 
 ## Medium Blog Post 
