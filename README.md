@@ -23,7 +23,7 @@ The project involved:
 There is one exploratory notebook and html file of the notebook available here to showcase my work in predicting churn. 
 
 ## Medium Blog Post 
-A Random Forest Classifier was chosen to be the best model by evaluating F1 score and accuracy metrics. The final model achieved an F1 and Accuracy score of 0.88. 
+The main findings of the code can be found at the Medium Blog post available [here](https://medium.com/@beatrizloureiro19/how-to-predict-churn-with-pyspark-adb6256c7d43) explaining the technical details of my project. A Random Forest Classifier was chosen to be the best model by evaluating F1 score and accuracy metrics. The final model achieved an F1 and Accuracy score of 0.88.
 
 ## Licensing, Authors, Acknowledgements, etc.
 I'd like to acknowledge Udacity for the project idea and workspace.
